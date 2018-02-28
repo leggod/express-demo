@@ -1,4 +1,3 @@
 # express-demo
-* git clone
-* npm instll
-''' git clone [adress]
+## 本案例是是基于 **express** ```node``` ```mongodb```
+> git clone 
