@@ -1,3 +1,3 @@
 # express-demo
-*git clone
-*npm instll
+* git clone
+* npm instll
